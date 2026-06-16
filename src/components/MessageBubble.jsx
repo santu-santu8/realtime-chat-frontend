@@ -36,7 +36,7 @@ function MessageBubble({
 
   const fullFileUrl =
     fileUrl
-      ? `http://localhost:5000${fileUrl}`
+      ? `https://realtime-chat-backend-5kgp.onrender.com${fileUrl}`
       : "";
 
   // ======================
